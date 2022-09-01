@@ -20,3 +20,21 @@ public class NewClass {
         nc.sayHello("Hello world");
     }
 }
+
+class NewClass2{
+    public NewClass2(){
+        
+    }
+    
+    public NewClass2(int a){
+        
+    }
+    
+    public NewClass2(double a){
+        
+    }
+    
+    public NewClass2(double a, int b){
+        
+    }
+}
