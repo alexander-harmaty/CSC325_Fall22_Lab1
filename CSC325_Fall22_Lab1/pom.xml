@@ -8,6 +8,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <exec.mainClass>edu.farmingdale.csc325_fall22_lab1.CSC325_Fall22_Lab1</exec.mainClass>
+        <exec.mainClass>edu.farmingdale.csc325_fall22_lab1.NewClass</exec.mainClass>
     </properties>
 </project>

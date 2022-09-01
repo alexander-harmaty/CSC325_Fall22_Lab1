@@ -9,9 +9,14 @@ package edu.farmingdale.csc325_fall22_lab1;
  *
  * @author AlexH
  */
-public class CSC325_Fall22_Lab1 {
+public class NewClass {
+    
+    private void sayHello(String str){
+        System.out.println(str);
+    }
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        NewClass nc = new NewClass();
+        nc.sayHello("Hello world");
     }
 }
